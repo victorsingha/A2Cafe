@@ -1,0 +1,13 @@
+
+.logo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 50px;
+    font-weight: bold;
+}
+
+.moto{
+    display: flex;
+    justify-content: center;
+}
